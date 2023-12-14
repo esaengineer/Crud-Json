@@ -1,0 +1,20 @@
+
+body{
+    background-color: #7eaf9d;
+}
+.bg-body{
+    background-color: rgb(184, 223, 230) !important;
+}
+h1 , h3{
+    color: #ccc;
+}
+.line{
+    height: 0.05rem;
+    background-color: #bebcbc;
+}
+@media screen and (min-width: 768px){
+    .table{
+        width: 100% !important;
+        /* margin: auto !important; */
+    }
+}
